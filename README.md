@@ -1,1 +1,2 @@
-# programming_for_data_analytics
+# About this repository:
+programming_for_data_analytics
