@@ -11,9 +11,9 @@ This repository contains a portion of my work , assigments and project for Progr
 
 ### References:
 ***
-How to sort data time values in chronological order. In this case, in ascendent order:
+- How to sort data time values in chronological order. In this case, in ascendent order:
 https://realpython.com/pandas-sort-python/
 
-How to add figures in Jupyter book:
+- How to add figures in Jupyter book:
 https://jupyterbook.org/en/stable/content/figures.html
 
