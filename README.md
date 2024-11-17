@@ -9,3 +9,11 @@
 
 This repository contains a portion of my work , assigments and project for Programming for data analytics module at ATU.
 
+### References:
+***
+How to sort data time values in chronological order. In this case, in ascendent order:
+https://realpython.com/pandas-sort-python/
+
+How to add figures in Jupyter book:
+https://jupyterbook.org/en/stable/content/figures.html
+
