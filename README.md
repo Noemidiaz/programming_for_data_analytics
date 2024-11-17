@@ -1,5 +1,5 @@
 
-![DataAnalytics](https://www.istockphoto.com/photo/financial-graph-on-technology-abstract-background-gm913219882-251386797?searchscope=image%2Cfilm)
+![DataAnalytics](https://media.istockphoto.com/id/913219882/photo/financial-graph-on-technology-abstract-background.jpg?s=612x612&w=0&k=20&c=0P0vbPiPsHOH_uzZEzL6CmpZwIDIArtNj_PsQVwxkEM=)
 
 
 
