@@ -17,5 +17,7 @@ https://realpython.com/pandas-sort-python/
 - How to add figures in Jupyter book:
 https://jupyterbook.org/en/stable/content/figures.html
 
+- How to read values in a column (ex. email domains):
+https://mode.com/python-tutorial/counting-and-plotting-in-python
 
 
