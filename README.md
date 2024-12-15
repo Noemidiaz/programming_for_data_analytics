@@ -6,7 +6,6 @@
 
 
 ## About this repository:
-***
 
 
 This repository contains a portion of my work , assigments and project for Programming for data analytics module at ATU.
@@ -46,22 +45,18 @@ Currently status:In process
 
 
 ## Get Help
-***
 
 Below are some references from official websites that contribute to my work. These resources complement and expand upon the knowledge require for this task.
 
 ## Contribute
-***
 
 You can submit a pull request regarding my code if you discover an error or if It should be updated.
 
 ## Author
-***
 
 I am Noemi Diaz and I am currently studying Science in Computing in Data Analytics at [ATU](https://www.atu.ie/)
 
 ## References:
-***
 
 - How to sort data time values in chronological order. In this case, in ascendent order:
 https://realpython.com/pandas-sort-python/
