@@ -1,5 +1,5 @@
 # Programming for data analytics
-***
+
 
 ![DataAnalytics](https://media.istockphoto.com/id/913219882/photo/financial-graph-on-technology-abstract-background.jpg?s=612x612&w=0&k=20&c=0P0vbPiPsHOH_uzZEzL6CmpZwIDIArtNj_PsQVwxkEM=)
 
@@ -11,7 +11,7 @@
 
 This repository contains a portion of my work , assigments and project for Programming for data analytics module at ATU.
 
-#### assignments folder:
+### assignments folder:
 
 In this folder there are 
 
@@ -40,7 +40,7 @@ The aim of this assignment is to create a Python program to analyze and visualiz
 Between the skills trained in this task are data manipulation, statistical analysis, handling missing data, and creating clear and insightful visualizations.
 
 
-#### project folder: 
+### project folder: 
 
 Currently status:In process
 
