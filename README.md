@@ -12,7 +12,7 @@ This repository contains a portion of my work , assigments and project for Progr
 
 ### assignments folder:
 
-In this folder there are 
+In this folder there are the following Jupyter Notebook for each task:
 
 - **assignment2-weather**:
 
