@@ -55,17 +55,17 @@ The main goals of the project are:
 
 Several tools were used in this project for data analysis and visualization:
 
-- Pandas: Python library for data manipulation, analysis and visualization (DataFrames, visualizing data...)
+- **Pandas**: Python library for data manipulation, analysis and visualization (DataFrames, visualizing data...)
 
-- Matplotlib: for plotting including the colormap feature of matplotlib.cm 
+- **Matplotlib**: for plotting including the colormap feature of matplotlib.cm 
 
-- numpy: Python library for handling numerical data and mathematical functions.
+- **numpy**: Python library for handling numerical data and mathematical functions.
 
-- SQLite: organize data by year and month, reformat date and calculare metrics such as average
+- **SQLite**: organize data by year and month, reformat date and calculare metrics such as average
 
-- Scikit Learn for machine learning tasks: 
-        - model selection train_test_split: which helps for Split the dataset into training and testing sets (80% train, 20% test)
-        - linear model LinearRegression: which helps to predict trends in the future.
+- **Scikit Learn** for machine learning tasks: 
+    - model selection train_test_split: which helps for Split the dataset into training and testing sets (80% train, 20% test)
+    - linear model LinearRegression: which helps to predict trends in the future.
 
 #### Conclusion
 aThe project concludes with a summary of key findings on wind trends at Dublin Airport over the past 24 years, including predictions for the next ten years. It also reflects on the importance of this data for both airport operations and potential wind farm investments.
